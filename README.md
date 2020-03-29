@@ -1,6 +1,6 @@
 # HeroesDB-backend
 
-Experimental NodeJs Application with hibrid connection.
+Experimental NodeJs Application with hibrid database connection.
 This application provide endpoints connected to a Heroes database.
 
 ##
