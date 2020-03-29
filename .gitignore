@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+.nyc_output/
+.vscode/
+coverage/
+# node_modules/ also works
+
+*.env.dev
+*.env.prod
+*.env.test
